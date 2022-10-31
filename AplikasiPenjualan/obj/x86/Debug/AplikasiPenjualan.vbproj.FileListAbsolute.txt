@@ -1,0 +1,40 @@
+c:\users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.Form1.resources
+c:\users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.FormMenuUtama.resources
+c:\users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.Resources.resources
+c:\users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.vbproj.GenerateResource.Cache
+c:\users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\bin\Debug\AplikasiPenjualan.exe
+c:\users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\bin\Debug\AplikasiPenjualan.pdb
+c:\users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\bin\Debug\AplikasiPenjualan.xml
+c:\users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.exe
+c:\users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.xml
+c:\users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.pdb
+c:\users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.FormMasterAdmin.resources
+C:\Users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.FormPelanggan.resources
+C:\Users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.FormBarang.resources
+C:\Users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.FormTransaksi.resources
+C:\Users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.vbproj.ResolveComReference.cache
+C:\Users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\bin\Debug\Interop.Crystal.dll
+C:\Users\nurul\onedrive\dokumen\visual studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\bin\Debug\AxInterop.Crystal.dll
+C:\Users\nurul\OneDrive\Dokumen\Visual Studio 2010\Projects\AplikasiPenjualan\AplikasiPenjualan\bin\Debug\AplikasiPenjualan.exe.config
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\bin\Debug\AplikasiPenjualan.exe.config
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\Interop.Crystal.dll
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.vbproj.ResolveComReference.cache
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.exe
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.xml
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.pdb
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\bin\Debug\AplikasiPenjualan.exe
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\bin\Debug\AplikasiPenjualan.pdb
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\bin\Debug\AplikasiPenjualan.xml
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\bin\Debug\Interop.Crystal.dll
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\bin\Debug\AxInterop.Crystal.dll
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.Form1.resources
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.FormBarang.resources
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.FormPelanggan.resources
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.FormMasterAdmin.resources
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.FormMenuUtama.resources
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.FormTransaksi.resources
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.Resources.resources
+D:\Project F1\AplikasiPenjualan\AplikasiPenjualan\obj\x86\Debug\AplikasiPenjualan.vbproj.GenerateResource.Cache
